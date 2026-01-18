@@ -24,3 +24,39 @@ A modern **User Profile Management mobile application** built using **React Nati
 - ESLint  
 
 ---
+
+## 📂 Project Structure
+
+UserProfileManagementApp/
+├── app/
+├── assets/
+├── components/
+├── constants/
+├── features/
+├── hooks/
+├── navigation/
+├── screens/
+├── scripts/
+├── App.tsx
+├── package.json
+└── README.md
+
+
+---
+
+## 🚀 Setup & Installation Steps
+
+Follow the steps below to set up and run the project locally.
+
+### 1️⃣ Prerequisites
+
+Make sure you have the following installed on your system:
+
+- Node.js (v16 or later recommended)
+- npm or yarn
+- Expo CLI
+- Android Studio (for Android emulator) or Xcode (for iOS simulator)
+
+Install Expo CLI (if not installed):
+```bash
+npm install -g expo-cli
