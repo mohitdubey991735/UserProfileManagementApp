@@ -24,19 +24,3 @@ A modern **User Profile Management mobile application** built using **React Nati
 - ESLint  
 
 ---
-
-## 📂 Project Structure
-
-UserProfileManagementApp/
-├── app/
-├── assets/
-├── components/
-├── constants/
-├── features/
-├── hooks/
-├── navigation/
-├── screens/
-├── scripts/
-├── App.tsx
-├── package.json
-└── README.md
